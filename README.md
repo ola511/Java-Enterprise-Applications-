@@ -1,2 +1,2 @@
-# Java-Enterprise-Applications-
+# Java-Enterprise-Application-
 Calendar for upcoming family and friends birthdays
