@@ -1,0 +1,8 @@
+CREATE TABLE calendar(
+id LONG PRIMARY KEY AUTO_INCREMENT,
+title VARCHAR(255),
+time VARCHAR(255),
+lastGift VARCHAR(255),
+text VARCHAR(255),
+birthday VARCHAR(255)
+);
